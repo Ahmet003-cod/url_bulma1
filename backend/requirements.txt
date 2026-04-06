@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+httpx
+beautifulsoup4
+playwright
+python-multipart
+python-dotenv
+thefuzz
+python-Levenshtein
